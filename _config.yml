@@ -4,8 +4,7 @@ name: Codex Machine
 description: Software Developer
 
 # Url is currently only used only for the RSS feed in feed.xml
-#url: http://jeremytieman.github.io
-url: http://localhost:4000
+url: http://jeremytieman.github.io
 
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
 # baseurl: '/jekyll-clean-dark'
